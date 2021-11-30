@@ -7,6 +7,6 @@ public class Kadai_test {
         System.out.println("b = " + b);
         // コメントいれてみました（及川）
         //コメントを入れてみましたその２・oikawa
-        //コメントその３
+        //コメントその３⇒4
     }
 }
