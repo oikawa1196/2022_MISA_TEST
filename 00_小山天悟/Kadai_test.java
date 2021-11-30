@@ -5,5 +5,6 @@ public class Kadai_test {
         
         System.out.println("a = " + a);
         System.out.println("b = " + b);
+        // コメントいれてみました（及川）
     }
 }
